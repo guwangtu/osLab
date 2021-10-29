@@ -1,0 +1,5 @@
+# 
+# Test kill(timeout). 
+#
+/bin/echo -e tsh> ./myspin 12
+./myspin 12
